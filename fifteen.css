@@ -11,6 +11,11 @@ p {
   height: 400px;
 }
 
+body {
+  font-family: Avenir;
+  text-align: center;
+}
+
 div {
   font-size: 24pt;
   height: 90px;
@@ -26,7 +31,7 @@ div.tile {
   border-color: black;
   line-height: 90px;
   color: white;
-  font-family: Avenir; 
+  font-family: Avenir;
 }
 
 div.hover {
